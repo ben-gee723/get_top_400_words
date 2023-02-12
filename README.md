@@ -3,7 +3,8 @@
  - Wikipedia Pages
  - Count and print as an Array
  - POSTGRES & SQL as Database solution
- - saving the pages on external hardrive
+ - saving the pages on external hardrive#
+ - Use a web crawler instead of downloading the pages?
 
 ## Sub Programs
 1. Download Pages
